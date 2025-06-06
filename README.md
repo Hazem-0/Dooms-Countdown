@@ -89,50 +89,27 @@ Navigate through magical mazes, defeat enemies, collect stars and gold, rescue h
 ---
 
 ## Screenshots 
+<h3>Main Menu</h3>
+<img src="screens&video/Pasted image 20250606201855.png" alt="Main Menu" width="600"/>
 
-- **Main Menu**  
-![Main Menu](screens&video/Pasted image 20250606201855.png)
+<h3>Tutorial Panel</h3>
+<img src="screens&video/WhatsApp Image 2025-05-23 at 10.29.13_00c8fee4.jpg" alt="Tutorial Panel" width="600"/>
 
-- **Tutorial Panel**  
-![Tutorial Panel](screens&video/Pasted image 20250606201907.png)
+<h3>Gameplay Screen 1</h3>
+<img src="screens&video/Pasted image 20250606202025.png" alt="Gameplay Screen 1" width="600"/>
 
-- **Gameplay Screen 1**  
-![Gameplay Screen 1](screens&video/Pasted image 20250606202025.png)
+<h3>Gameplay Screen 2</h3>
+<img src="screens&video/Pasted image 20250606202048.png" alt="Gameplay Screen 2" width="600"/>
 
-- **Gameplay Screen 2**  
-![Gameplay Screen 2](screens&video/Pasted image 20250606202048.png)
+<h3>Gameplay Screen 3</h3>
+<img src="screens&video/Pasted image 20250606202101.png" alt="Gameplay Screen 3" width="600"/>
 
-- **Gameplay Screen 3**  
-![Gameplay Screen 3](screens&video/Pasted image 20250606202101.png)
-
-- **Pause Menu**  
-![Pause Menu](screens&video/Pasted image 20250606202110.png)
+<h3>Pause Menu</h3>
+<img src="screens&video/Pasted image 20250606202110.png" alt="Pause Menu" width="600"/>
 
 
-## 🎥 Gameplay Video
-
-[🎬 Watch Gameplay Video](screens&video/WhatsApp Video 2025-05-22 at 23.04.49_9685751d.mp4)
-## Screenshots 
-
-- **Main Menu**  
-![Main Menu](screens&video/Pasted image 20250606201855.png)
-
-- **Tutorial Panel**  
-![Tutorial Panel](screens&video/Pasted image 20250606201907.png)
-
-- **Gameplay Screen 1**  
-![Gameplay Screen 1](screens&video/Pasted image 20250606202025.png)
-
-- **Gameplay Screen 2**  
-![Gameplay Screen 2](screens&video/Pasted image 20250606202048.png)
-
-- **Gameplay Screen 3**  
-![Gameplay Screen 3](screens&video/Pasted image 20250606202101.png)
-
-- **Pause Menu**  
-![Pause Menu](screens&video/Pasted image 20250606202110.png)
 
 
 ##  Gameplay Video
 
-[Watch Gameplay Video](screens&video/WhatsApp Video 2025-05-22 at 23.04.49_9685751d.mp4)
+<a href="screens&video/WhatsApp Video 2025-05-22 at 23.04.49_9685751d.mp4" target="_blank">▶️ Watch Gameplay Video</a>
