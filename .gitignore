@@ -1,0 +1,35 @@
+# === Unity-generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# === Visual Studio / VS Code files ===
+.vscode/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# === OS-generated files ===
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# === Unity Asset Store tools ===
+*.unitypackage
+
+# === Crash reports and backups ===
+sysinfo.txt
+*.bak
+*.orig
+
+# === JetBrains Rider IDE ===
+.idea/
